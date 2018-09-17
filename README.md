@@ -19,7 +19,7 @@ In this hackthon, we have now completed a forecast of three cryptocurrency price
 
     pip install -r requirements.txt
 
-    python historical.py
+    python data/historical.py
 
 # Result
 
